@@ -105,7 +105,7 @@ while True:
     else:
         print("Role tidak valid.")
 [Flowchart postes 2drawio.pdf](https://github.com/vincenzrey/postes-kedua/files/12850954/Flowchart.postes.2drawio.pdf)
-
+![Diagram Tanpa Judul drawio (2)](https://github.com/vincenzrey/postes-kedua/assets/144880422/d48bc44d-f4c5-4550-a6a5-baac6a03dcb1)
 output sebagai admin
 
 ![Screenshot 2023-10-10 054819](https://github.com/vincenzrey/postes-kedua/assets/144880422/f00640c6-28c6-4ea1-95bf-7ee589a2dc9b)
